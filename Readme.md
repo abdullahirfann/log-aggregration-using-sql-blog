@@ -79,7 +79,7 @@ But first, a quick look at the architecture we're targeting.
 
 Alright, now let's dive into the AWS Console and search for AWS Glue.
 
-![Search results for AWS Glue in AWS Console](solution/search-for-AWS Glue.png)
+![Search results for AWS Glue in AWS Console](solution/search-for-glue.png)
 
 Now, let's click on `Crawlers` under the `Data Catalog` section of the AWS Glue console.
 
@@ -127,7 +127,7 @@ Once our crawler has successfully crawled the S3 bucket, you will be able to see
 
 Now, we should be good to go and query our logs using Amazon Athena! However, before moving, we need to confirm if our crawler was successful. To do this, we can click on `Tables` under the `Data Catalog` section of the AWS Glue console.
 
-![Tables](solution/AWS Glue-tables.png)
+![Tables](solution/glue-tables.png)
 
 One last thing we can do before moving on is to check if our crawler inferred the schema correctly. To do this, we can click on the table and check the `Schema` section. And voila! The deed is done. We have `response_size` and `response_time` as queryable attributes.
 
