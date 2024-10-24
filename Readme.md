@@ -137,7 +137,7 @@ Well, that took quite a few clicks didnt it? I would say it took about as much e
 
 Oops. I almost forgot the querying part. Off to Amazon Athena!
 
-![Search for Amazon Athena](solution/search-for-amazon-athena.png)
+![Search for Amazon Athena](solution/search-for-athena.png)
 
 And... Here it is! Our query editor.
 
