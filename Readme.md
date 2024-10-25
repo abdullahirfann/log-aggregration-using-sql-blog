@@ -1,4 +1,4 @@
-# Log Analytics with SQL?!?
+# Log Analytics with SQL
 
 I was talking to a friend recently and she happens to be a performance test engineer. It had been a stressful day for her because it took her an entire day to analyze some performance results. You might be wondering:
 
